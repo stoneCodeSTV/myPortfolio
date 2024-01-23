@@ -60,7 +60,7 @@ const Services = () => {
             <li>
               <HiMiniCheck className='service_list-icon'/>
                 <p>
-                  Testing Pipeline.
+                  Etc.
                 </p>
             </li>
           </ul>
